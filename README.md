@@ -1,6 +1,24 @@
-# music_world
+# Vibe - The Ultimate Music Player
 
-A new Flutter project.
+Vibe is a feature-rich music player built with Flutter, designed to offer a premium listening experience.
+
+## Features
+- **Smart Audio**: High-quality playback with advanced audio controls.
+- **Sync & Collaboration**: Listen together with friends in real-time.
+- **Gesture Control**: Control playback with intuitive gestures and proximity sensors.
+- **Modern UI**: Sleek, responsive design with dynamic themes.
+
+## Installation
+
+### Clone the Repository
+To get started with the source code, clone the repository using:
+```bash
+git clone https://github.com/Vibin-007/vibe.git
+```
+
+### Download Release APK
+You can download the latest release APK directly from this repository:
+[Download Vibe APK](releases/app-release.apk)
 
 ## Getting Started
 
